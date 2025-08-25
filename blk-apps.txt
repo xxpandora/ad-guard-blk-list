@@ -1,3 +1,5 @@
 ||azarlive.com^
 ||azarlive.com.cdn.cloudflare.net^
 ||chatspin.com^ 
+||tango.me^
+||chatango.com^
