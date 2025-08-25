@@ -1,2 +1,3 @@
 ||azarlive.com^
 ||azarlive.com.cdn.cloudflare.net^
+||chatspin.com^ 
