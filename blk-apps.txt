@@ -8,3 +8,4 @@
 ||livuapp.com^
 ||badoo.com^
 ||ome.tv^
+||chatrandom.com^
